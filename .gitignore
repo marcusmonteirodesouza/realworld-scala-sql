@@ -198,3 +198,6 @@ override.tf.json
 terraform.rc
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,scala,sbt,intellij+all,terraform
+
+#
+postgres-data
